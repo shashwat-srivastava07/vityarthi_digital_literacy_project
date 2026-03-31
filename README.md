@@ -1,4 +1,4 @@
-# vityarthi_digital_literacy_prooject
+# vityarthi_digital_literacy_project
 \# digital-literacy-case-study
 Level Up Your Digital Life: A Student’s Guide  Hey Batchmates! As your Digital Ambassador, I’ve put together this portfolio to help us all master the web. From fixing up your professional profiles to staying safe online, consider this your roadmap to a better digital presence. 
 
